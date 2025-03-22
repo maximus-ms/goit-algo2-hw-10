@@ -1,5 +1,5 @@
 # Algo2. Home work 10
-## "Алгоритмічна складність, наближені та рандомізовані алгоритми"
+## "Algorithmic Complexity, Approximation, and Randomized Algorithms"
 
 ### Task 1. Comparison of Randomized and Deterministic `QuickSort`
 
@@ -29,7 +29,7 @@ Implement randomized and deterministic `QuickSort` algorithms. Conduct a compara
 
 #### Solution
 
-The taks is implemented in fiel task1.py
+The task is implemented in [task1.py](task1.py)
 
 Results:
 ```
@@ -106,7 +106,7 @@ List of teachers:
 3. All subjects must be covered by teachers, and all teachers must be assigned according to their subjects.
 
 #### Solution
-The taks is implemented in file task2.py
+The taks is implemented in [task2.py](task2.py)
 
 Results:
 ```
